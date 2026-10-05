@@ -130,7 +130,7 @@ SauceDemo-Manual-Testing/
 
 ---
 
-## 🔄 Testing Process
+## Testing Process
 
 The project followed a structured manual testing workflow:
 
@@ -205,7 +205,7 @@ Test Summary
 
 ---
 
-## 👨Project Author
+## Project Author
 
 **Aman Singh**
 
